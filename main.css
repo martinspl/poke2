@@ -1,0 +1,58 @@
+#toolbar {
+  imagen de fondo : gradiente lineal ( 0 grados , # FF0000 , # EE3B5E );
+  caja-sombra : 0 px  3 px  5 px  rgba ( 0 , 0 , 0 , 0.5 );
+  relleno : 15 px ;
+  pantalla : flexión ;
+  justify-content : space-between ;
+  posición : fija ;
+  arriba : 0 ;
+  izquierda : 0 ;
+  ancho : 100 % ;
+}
+
+#toolbar  img {
+  altura : 40 px ;
+}
+
+.small-box {
+  ancho : 300 px  ! importante ;
+}
+
+#container {
+  color de fondo : #eaeaea ;
+  relleno : 30 px ;
+  margin-top : 70 px ;
+}
+
+.pokemon {
+  ancho : 400 px ;
+  borde : 1 px  sólido  #dadada ;
+  caja-sombra : 0 px  3 px  5 px  rgba ( 0 , 0 , 0 , 0.2 );
+  border-radius : 8 px ;
+  margen : 15 px ;
+}
+
+.photo {
+  altura : 500 px ;
+  desbordamiento : oculto ;
+  color de fondo : blanco ;
+}
+
+.photo  img {
+  altura : 100 % ;
+}
+
+.info {
+  color de fondo : blanco ;
+  relleno : 10 px ;
+}
+
+h2 {
+  color : # 8a8a8a ;
+  tamaño de fuente : 40 px ;
+}
+
+span {
+  tamaño de fuente : 60 px ;
+  color : # 486EFC ;
+}

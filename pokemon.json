@@ -1,0 +1,56 @@
+ pokemones = [
+  {
+    " id " : " 001 " ,
+    " nombre " : " Charmander " ,
+    " foto " : " 01 " ,
+    " tipo " : " fuego "
+  },
+  {
+    " id " : " 002 " ,
+    " nombre " : " Kanjaskan " ,
+    " foto " : " 02 " ,
+    " tipo " : " pelear "
+  },
+  {
+    " id " : " 003 " ,
+    " nombre " : " Mewtwo " ,
+    " foto " : " 03 " ,
+    " tipo " : " hada "
+  },
+  {
+    " id " : " 004 " ,
+    " nombre " : " Blastoise " ,
+    " foto " : " 04 " ,
+    " tipo " : " agua "
+  },
+  {
+    " id " : " 005 " ,
+    " nombre " : " Bulbasaur " ,
+    " foto " : " 05 " ,
+    " tipo " : " hierba "
+  },
+  {
+    " id " : " 006 " ,
+    " nombre " : " Magikarp " ,
+    " foto " : " 06 " ,
+    " tipo " : " agua "
+  },
+  {
+    " id " : " 007 " ,
+    " nombre " : " Pikachu " ,
+    " foto " : " 07 " ,
+    " tipo " : " eléctrico "
+  },
+  {
+    " id " : " 008 " ,
+    " nombre " : " Gengar " ,
+    " foto " : " 08 " ,
+    " tipo " : " fantasma "
+  },
+  {
+    " id " : " 009 " ,
+    " nombre " : " Vamoacalmarno " ,
+    " foto " : " 09 " ,
+    " tipo " : " agua "
+  }
+];
